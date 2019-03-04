@@ -1,0 +1,76 @@
+{
+  "orders": [
+    {
+      "orderId": 1001,
+      "customerId": "2001",
+      "wardrobeType": "Stompa",
+      "profilColor": "Silver",
+      "totalDoors": "2",
+      "items": [
+        {
+          "description" : "Stompa Side - door",
+          "quantity" : "4",
+          "size" : "2158 mm"
+        },
+        {
+          "description" : "Topp/bunn enkel - door",
+          "quantity" : "4",
+          "size" : "727 mm"
+        }
+      ]
+    },
+    {
+      "orderId": 1002,
+      "customerId": "2002",
+      "wardrobeType": "President",
+      "profilColor": "White",
+      "totalDoors": "2",
+      "items": [
+        {
+          "description" : "Bunnskinne enkel ",
+          "quantity" : "1",
+          "size" : "1500 mm"
+        },
+        {
+          "description" : "Toppskinne enkel",
+          "quantity" : "1",
+          "size" : "1500 mm"
+        }
+      ]
+    },
+    {
+      "orderId": 1003,
+      "customerId": "2003",
+      "wardrobeType": "Vega",
+      "profilColor": "Black",
+      "totalDoors": "2",
+      "items": [
+        {
+          "description" : "Bronze Mirrors",
+          "quantity" : "1",
+          "size" : "B: 748 mm x H: 2129 mm"
+        },
+        {
+          "description" : "Lacobel Rod",
+          "quantity" : "1",
+          "size" : "B: 748 mm x H: 2129 mm"
+        }
+      ]
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
