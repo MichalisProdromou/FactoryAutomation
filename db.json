@@ -4,7 +4,7 @@
       "orderId": 1001,
       "customerId": "2001",
       "wardrobeType": "Stompa",
-      "profilColor": "Silver",
+      "profileColor": "Silver",
       "totalDoors": "2",
       "items": [
         {
@@ -23,7 +23,7 @@
       "orderId": 1002,
       "customerId": "2002",
       "wardrobeType": "President",
-      "profilColor": "White",
+      "profileColor": "White",
       "totalDoors": "2",
       "items": [
         {
@@ -42,7 +42,7 @@
       "orderId": 1003,
       "customerId": "2003",
       "wardrobeType": "Vega",
-      "profilColor": "Black",
+      "profileColor": "Black",
       "totalDoors": "2",
       "items": [
         {
