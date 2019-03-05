@@ -6,6 +6,7 @@
       "wardrobeType": "Stompa",
       "profileColor": "Silver",
       "totalDoors": "2",
+      "imgURL" : "https://picsum.photos/600",
       "items": [
         {
           "description" : "Stompa Side - door",
@@ -25,6 +26,7 @@
       "wardrobeType": "President",
       "profileColor": "White",
       "totalDoors": "2",
+      "imgURL" : "https://picsum.photos/700",
       "items": [
         {
           "description" : "Bunnskinne enkel ",
@@ -44,6 +46,7 @@
       "wardrobeType": "Vega",
       "profileColor": "Black",
       "totalDoors": "2",
+      "imgURL" : "https://picsum.photos/650",
       "items": [
         {
           "description" : "Bronze Mirrors",
@@ -63,6 +66,7 @@
       "wardrobeType": "Vega",
       "profileColor": "Black",
       "totalDoors": "2",
+      "imgURL" : "https://picsum.photos/620",
       "items": [
         {
           "description" : "Bronze Mirrors",
@@ -130,6 +134,7 @@
       "wardrobeType": "Vega",
       "profileColor": "Black",
       "totalDoors": "2",
+      "imgURL" : "https://picsum.photos/710",
       "items": [
         {
           "description" : "Bronze Mirrors",
