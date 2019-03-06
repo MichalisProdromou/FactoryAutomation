@@ -141,6 +141,116 @@
       ]
     },
     {
+      "orderId": 1341,
+      "customerId": "2001",
+      "wardrobeType": "Stompa",
+      "profileColor": "Silver",
+      "totalDoors": "2",
+      "showModal": false,
+      "imgURL" : "https://picsum.photos/600",
+      "orderStatus" : false,
+      "items": [
+        {
+          "description" : "Stompa Side - door",
+          "quantity" : "4",
+          "size" : "2158 mm"
+        },
+        {
+          "description" : "Topp/bunn enkel - door",
+          "quantity" : "4",
+          "size" : "727 mm"
+        }
+      ]
+    },
+    {
+      "orderId": 189721,
+      "customerId": "2001",
+      "wardrobeType": "Stompa",
+      "profileColor": "Silver",
+      "totalDoors": "2",
+      "showModal": false,
+      "imgURL" : "https://picsum.photos/600",
+      "orderStatus" : false,
+      "items": [
+        {
+          "description" : "Stompa Side - door",
+          "quantity" : "4",
+          "size" : "2158 mm"
+        },
+        {
+          "description" : "Topp/bunn enkel - door",
+          "quantity" : "4",
+          "size" : "727 mm"
+        }
+      ]
+    },
+    {
+      "orderId": 14563,
+      "customerId": "2001",
+      "wardrobeType": "Stompa",
+      "profileColor": "Silver",
+      "totalDoors": "2",
+      "showModal": false,
+      "imgURL" : "https://picsum.photos/600",
+      "orderStatus" : false,
+      "items": [
+        {
+          "description" : "Stompa Side - door",
+          "quantity" : "4",
+          "size" : "2158 mm"
+        },
+        {
+          "description" : "Topp/bunn enkel - door",
+          "quantity" : "4",
+          "size" : "727 mm"
+        }
+      ]
+    },
+    {
+      "orderId": 12341,
+      "customerId": "2001",
+      "wardrobeType": "Stompa",
+      "profileColor": "Silver",
+      "totalDoors": "2",
+      "showModal": false,
+      "imgURL" : "https://picsum.photos/600",
+      "orderStatus" : false,
+      "items": [
+        {
+          "description" : "Stompa Side - door",
+          "quantity" : "4",
+          "size" : "2158 mm"
+        },
+        {
+          "description" : "Topp/bunn enkel - door",
+          "quantity" : "4",
+          "size" : "727 mm"
+        }
+      ]
+    },
+    {
+      "orderId": 10567,
+      "customerId": "2001",
+      "wardrobeType": "Stompa",
+      "profileColor": "Silver",
+      "totalDoors": "2",
+      "showModal": false,
+      "imgURL" : "https://picsum.photos/600",
+      "orderStatus" : false,
+      "items": [
+        {
+          "description" : "Stompa Side - door",
+          "quantity" : "4",
+          "size" : "2158 mm"
+        },
+        {
+          "description" : "Topp/bunn enkel - door",
+          "quantity" : "4",
+          "size" : "727 mm"
+        }
+      ]
+    },
+    {
       "orderId": 16073,
       "customerId": "2003",
       "wardrobeType": "Vega",
