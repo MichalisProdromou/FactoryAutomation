@@ -8,6 +8,7 @@
       "totalDoors": "2",
       "showModal": false,
       "imgURL" : "https://picsum.photos/600",
+      "orderStatus" : false,
       "items": [
         {
           "description" : "Stompa Side - door",
@@ -29,6 +30,7 @@
       "totalDoors": "2",
       "showModal": false,
       "imgURL" : "https://picsum.photos/700",
+      "orderStatus" : false,
       "items": [
         {
           "description" : "Bunnskinne enkel ",
@@ -50,6 +52,7 @@
       "totalDoors": "2",
       "showModal": false,
       "imgURL" : "https://picsum.photos/500",
+      "orderStatus" : false,
       "items": [
         {
           "description" : "Bronze Mirrors",
@@ -71,6 +74,7 @@
       "totalDoors": "2",
       "showModal": false,
       "imgURL" : "https://picsum.photos/600",
+      "orderStatus" : false,
       "items": [
         {
           "description" : "Bronze Mirrors",
@@ -91,6 +95,7 @@
       "profileColor": "Black",
       "totalDoors": "2",
       "showModal": false,
+      "orderStatus" : false,
       "items": [
         {
           "description" : "Bronze Mirrors",
@@ -111,6 +116,7 @@
       "profileColor": "Black",
       "totalDoors": "2",
       "showModal": false,
+      "orderStatus" : false,
       "items": [
         {
           "description" : "Bronze Mirrors",
@@ -142,6 +148,7 @@
       "totalDoors": "2",
       "imgURL" : "https://picsum.photos/600",
       "showModal": false,
+      "orderStatus" : false,
       "items": [
         {
           "description" : "Bronze Mirrors",
