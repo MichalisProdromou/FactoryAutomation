@@ -6,9 +6,8 @@
       "wardrobeType": "Stompa",
       "profileColor": "Silver",
       "totalDoors": "2",
-      "showModal": false,
       "imgURL" : "https://picsum.photos/600",
-      "orderStatus" : false,
+      "taskId": 10,
       "items": [
         {
           "description" : "Stompa Side - door",
@@ -28,9 +27,8 @@
       "wardrobeType": "President",
       "profileColor": "White",
       "totalDoors": "2",
-      "showModal": false,
       "imgURL" : "https://picsum.photos/700",
-      "orderStatus" : false,
+      "taskId": 1,
       "items": [
         {
           "description" : "Bunnskinne enkel ",
@@ -50,9 +48,7 @@
       "wardrobeType": "Vega",
       "profileColor": "Black",
       "totalDoors": "2",
-      "showModal": false,
       "imgURL" : "https://picsum.photos/500",
-      "orderStatus" : false,
       "items": [
         {
           "description" : "Bronze Mirrors",
@@ -72,9 +68,8 @@
       "wardrobeType": "Vega",
       "profileColor": "Black",
       "totalDoors": "2",
-      "showModal": false,
       "imgURL" : "https://picsum.photos/600",
-      "orderStatus" : false,
+      "taskId": 2,
       "items": [
         {
           "description" : "Bronze Mirrors",
@@ -94,8 +89,7 @@
       "wardrobeType": "Vega",
       "profileColor": "Black",
       "totalDoors": "2",
-      "showModal": false,
-      "orderStatus" : false,
+      "taskId": 3,
       "items": [
         {
           "description" : "Bronze Mirrors",
@@ -115,8 +109,7 @@
       "wardrobeType": "Vega",
       "profileColor": "Black",
       "totalDoors": "2",
-      "showModal": false,
-      "orderStatus" : false,
+      "taskId": 4,
       "items": [
         {
           "description" : "Bronze Mirrors",
@@ -146,9 +139,8 @@
       "wardrobeType": "Stompa",
       "profileColor": "Silver",
       "totalDoors": "2",
-      "showModal": false,
       "imgURL" : "https://picsum.photos/600",
-      "orderStatus" : false,
+      "taskId": 5,
       "items": [
         {
           "description" : "Stompa Side - door",
@@ -168,9 +160,8 @@
       "wardrobeType": "Stompa",
       "profileColor": "Silver",
       "totalDoors": "2",
-      "showModal": false,
       "imgURL" : "https://picsum.photos/600",
-      "orderStatus" : false,
+      "taskId": 6,
       "items": [
         {
           "description" : "Stompa Side - door",
@@ -190,9 +181,8 @@
       "wardrobeType": "Stompa",
       "profileColor": "Silver",
       "totalDoors": "2",
-      "showModal": false,
       "imgURL" : "https://picsum.photos/600",
-      "orderStatus" : false,
+      "taskId": 7,
       "items": [
         {
           "description" : "Stompa Side - door",
@@ -212,9 +202,8 @@
       "wardrobeType": "Stompa",
       "profileColor": "Silver",
       "totalDoors": "2",
-      "showModal": false,
       "imgURL" : "https://picsum.photos/600",
-      "orderStatus" : false,
+      "taskId": 8,
       "items": [
         {
           "description" : "Stompa Side - door",
@@ -234,9 +223,8 @@
       "wardrobeType": "Stompa",
       "profileColor": "Silver",
       "totalDoors": "2",
-      "showModal": false,
       "imgURL" : "https://picsum.photos/600",
-      "orderStatus" : false,
+      "taskId": 9,
       "items": [
         {
           "description" : "Stompa Side - door",
@@ -257,8 +245,7 @@
       "profileColor": "Black",
       "totalDoors": "2",
       "imgURL" : "https://picsum.photos/600",
-      "showModal": false,
-      "orderStatus" : false,
+      "taskId": 10,
       "items": [
         {
           "description" : "Bronze Mirrors",
