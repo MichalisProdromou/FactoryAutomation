@@ -49,6 +49,7 @@
       "profileColor": "Black",
       "totalDoors": "2",
       "imgURL" : "https://picsum.photos/500",
+       "taskId": 1,
       "items": [
         {
           "description" : "Bronze Mirrors",
